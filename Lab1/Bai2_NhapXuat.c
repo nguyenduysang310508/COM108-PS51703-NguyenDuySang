@@ -2,7 +2,7 @@
 int main()
 {
   char mssv[10] = "PS51869";
-  char fullName[20] = "Tran Quoc Toan";
+  char fullName[20] = "Nguyen Duy Sang";
   int year = 1999;
   float dtb = 9.4;
 
