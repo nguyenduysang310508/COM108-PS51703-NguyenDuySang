@@ -2,7 +2,7 @@
 int main()
 {
   char mssv[10] = "PS51869";
-  char fullName[20] = "Tran Quoc Toan";
+  char fullName[20] = "Nguyen Duy Sang";
   float toan = 5.6;
   float ly = 4.5;
   float hoa = 5.9;
